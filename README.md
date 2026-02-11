@@ -1,4 +1,4 @@
-# AGP
+# Ayyappa
 Hello All this my profile
 <h1 align="center">Hi 👋, I'm R T AYYAPPA</h1>
 <h3 align="center">A passionate Data Engineering developer from India</h3>
